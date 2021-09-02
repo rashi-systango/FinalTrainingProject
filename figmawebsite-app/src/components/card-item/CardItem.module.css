@@ -1,0 +1,52 @@
+.dcPriceTag{
+    
+height: 16px;
+left: 886px;
+top: 1694px;
+margin-left: 15px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 16px;
+text-transform: capitalize;
+
+color: #000000;
+
+}
+.PriceTag{
+    margin:5px ;
+    height: 14px;
+left: 924px;
+top: 1696px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 14px;
+/* identical to box height */
+
+text-decoration-line: line-through;
+text-transform: capitalize;
+
+color:black;
+}
+.discount{
+    margin:5px ;
+    height: 14px;
+left: 924px;
+top: 1696px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height */
+color:red;
+
+text-transform: capitalize;
+
+
+}

@@ -1,0 +1,27 @@
+.inviteButton{
+    position: absolute;
+width: 94px;
+height: 29px;
+left: 700px;
+top:10px;
+
+background: rgb(192, 48, 48);
+border-radius: 20px;
+}
+.inviteButton text{
+    position: absolute;
+width: 66px;
+height: 16px;
+left: 1035px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+
+color: #000000;
+
+}

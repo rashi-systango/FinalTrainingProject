@@ -1,0 +1,20 @@
+.BrandName{
+    
+width: 97px;
+height: 19px;
+left: 886px;
+top: 1643px;
+margin: 5px;
+margin-left: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #000000;
+}

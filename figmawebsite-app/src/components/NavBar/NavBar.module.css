@@ -1,0 +1,71 @@
+.header {
+  display: flex;
+  background: linear-gradient(rgb(37, 8, 8),brown);
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 40px;
+  height: 80px;
+  margin-left: 250px;
+}
+.atag{
+  color:white;
+}
+.image{
+  position: absolute;
+width: 200px;
+height: 50px;
+left: 18px;
+top: 10px;
+}
+.logo-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  width: 45px;
+  height: 45px;
+}
+.nav-options {
+  padding-left: 25px;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 50px;
+  list-style-type: none;
+}
+.mobile-option {
+  display: none;
+}
+.mobile-menu {
+  display: none;
+}
+
+.option :hover {
+  color: white;
+}
+.signin-up {
+  display: flex;
+  padding: 0px 5px;
+  list-style-type: none;
+}
+.sign-in {
+  padding-right: 50px;
+  align-self: center;
+}
+.sign-in :hover {
+  color: white;
+}
+.signup-btn {
+  padding: 10px 10px;
+  height: 2.4rem;
+  border-radius: 3px;
+  background: rgb(222, 9, 241);
+  color: white;
+  cursor: pointer;
+  align-items: center;
+}

@@ -1,0 +1,49 @@
+
+.droplabel {
+  margin: 5px;  
+  height: 42px;
+  left: 226px;
+  top: 224px;
+  background-color: #b94517;
+  border-color:5px black;
+  border-radius: 72px;
+  }
+  .droplabel:disabled{
+  background-color: #b94517; 
+  
+  color: black;
+  }
+
+  .dropdown {
+    margin-right: 15px;
+    float: right;
+ 
+    display: inline-block;
+    border-color:1px black;    
+  }
+  
+
+  .dropdown-content {
+    display: none;
+    
+    background-color: #f1f1f1;
+    border-color:1px black;    
+    min-width: 160px; 
+    
+    
+  }
+  
+
+  .dropdown-content button {
+    width: 100%;    
+    border:none;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    border-color:1px black;    
+    text-decoration: none;
+    
+  }
+  
+
+  
+  .dropdown:hover .dropdown-content {display: block;}

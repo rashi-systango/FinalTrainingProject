@@ -1,0 +1,59 @@
+.flex-container{
+    display: flex;
+    align-items: flex-start;
+}
+
+.Card{  
+ 
+    margin: 15px;    
+    float: left;
+    width: 265px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-color: black;
+    border-radius: .25rem;
+    background-color:lightsteelblue;
+    
+    height: 549px;
+    
+
+}
+
+.selectedSize{
+    margin: 5px;
+    align-content: center;
+    width: 37px;
+    height: 37px;
+ 
+    padding: 0.25rem 0.25rem; 
+    background-color:red;
+    color: white;
+}
+
+.unSelectedSize{
+    margin: 5px;
+    width: 37px;
+    height: 37px;
+    align-content: center;
+       
+    padding: 0.25rem 0.25rem;
+    background-color: black;
+    color: seashell;
+}
+    
+.addToCartButton{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 19%;
+    border-radius: 5rem;
+    padding:5px;
+}
+.productImage{
+    width: 262px;
+height: 349px;
+left: 871px;
+top: 1279px;
+
+}

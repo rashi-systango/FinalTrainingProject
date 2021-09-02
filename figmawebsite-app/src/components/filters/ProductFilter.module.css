@@ -1,0 +1,29 @@
+.div{
+    max-width: 50%;
+    max-height: 10%;
+    margin: 0%;
+}
+
+.notSelected{
+    margin: 5px;
+width: 92px;
+height: 42px;
+left: 226px;
+top: 224px;
+box-sizing: border-box;
+background-color: blanchedalmond;
+color: black;
+border: 1px solid black;
+border-radius: 72px;
+}
+.selected{
+    margin: 5px;
+width: 92px;
+height: 42px;
+left: 226px;
+top: 224px;
+box-sizing: border-box;
+background-color: #b94517;
+    border-color:1px black;
+    border-radius: 72px;
+}
